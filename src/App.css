@@ -1,0 +1,68 @@
+form > *{
+    width: 47% !important;
+    margin-right: 10px !important;
+}
+.userProfile{
+    padding: 20px;
+    margin: 0px 5%;
+}
+.submitButton{
+    margin: 20px 25% !important;
+}
+.navbar{
+	justify-content: space-around !important;
+    width: 100%;
+    height: 15vh !important;
+}
+
+.completeWidth{
+    width: 100% !important;
+    margin-bottom: 20px !important;
+}
+
+#detail{
+    font: inherit;
+    margin: 20px 0px;
+    width: 94% !important;
+    padding: 5px;
+    border: gray 1px solid;
+    border-radius: 10px;
+}
+.pictureButtons{
+    width: 100% !important;
+    display: flex;
+    justify-content: space-around;
+}
+.pictureButtons button{
+    border-radius: 20px;
+}
+.stats{
+    display: flex;
+    justify-content: space-evenly;    
+}
+.stats > div > div{
+    padding: 20px 20px 0px 20px;    
+}
+.stats > div{
+    width: 28%;
+}
+.count{
+    font-size: 3rem;
+}
+.stats button{
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    background-color: rgb(201, 200, 200);
+    border:none;
+}
+footer{
+    margin-top: 35px;
+    padding: 25px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    color: blue;
+    font-size: 1.1rem;
+}
